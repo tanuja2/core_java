@@ -1,2 +1,2 @@
-# core_java
+# lab
 java is object oriented language
